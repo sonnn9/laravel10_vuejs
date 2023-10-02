@@ -1,11 +1,11 @@
 # laravel10_vuejs
 
-step1: docker-compose build
+<p>step1: docker-compose build</p>
 
-step2: docker-compose up
+<p>step2: docker-compose up</p>
 
-step3: go to laravel-app container -> composer install
-                                      php artisan key:generate
+<p>step3: go to laravel-app container -> composer install
+                                      php artisan key:generate</p>
 
 
 access: localhost:8080
